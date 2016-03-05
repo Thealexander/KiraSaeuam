@@ -113,12 +113,14 @@ administradores de estos centros educativos.
                        VI. 		Roles de los miembros: 
 
 A.	 Aldair Peralta: Apih97/ 13010231/ https://github.com/Apih97
+
 Mini Biografía: Estudiante de la carrera de Ingeniería en gerencia Informática, 
 actualmente cursando cuarto año, paciente, analítico, inventivo.
 Actual en el uso de PHP, Visual Basic, Java, SQL Server, MySQL.
 Rol en el proyecto: Programador, desarrollador, investigador y escritor.
 
 B.	Brayan Gaitan: TheAlexander / 11020330/ https://github.com/Thealexander/Saeuam
+
 MiniBiografia: Estudiante de Ingenieria en Sistemas de Informacion, 
 cursando quinto año, sanguíneo, hardworking, multitasking, creativo, Lider.
 En uso de PHP, Java, C, C++, Asp.net, javascript, Visual Basic, Python, Ruby 
@@ -126,12 +128,14 @@ on rails, Perl, Shell, MySQL, SQL Server, PostgreSQL.
 Rol en Proyecto: Líder, Programador, desarrollador, investigador.
  
 C.	Virgilio Paniagua: virgiliopaniagua18 / 12020098/ https://github.com/virgiliopaniagua18
+
 Mini Biografía: Trabajo en equipo, excelente relaciones interpersonales y 
 sentido de responsabilidad. Actual tengo conocimiento en Visual Basic, Java, 
 SQL Server, MySQL.
 Rol en el proyecto: Programador y desarrollador.
 
 D.	Rigoberto López: rigobertoloopez / 13010649/ https://github.com/rigobertolopez
+
 Mini Biografía: Estudiante de la carrera de Ingeniería en gerencia Informática,
 Actual mente me encanta trabajar en equipo para de desarrollar ideas con 
 el propósito de adquirir nuevo conocimientos soy amble comprensivo y 
