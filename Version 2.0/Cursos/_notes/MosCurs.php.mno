@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Identificar" value="name:IDestudiante;datatype:int,name:IDClase;datatype:int,name:IDTurno;datatype:int" />
+	<infoitem key="UD_Cursoestudiante" value="name:Nombre_clase;datatype:string,name:profesores_nombres;datatype:string,name:Profesores_apellidos;datatype:string,name:turno;datatype:string,name:Codigo_aula;datatype:string,name:Codigo_edificio;datatype:string" />
+</info>

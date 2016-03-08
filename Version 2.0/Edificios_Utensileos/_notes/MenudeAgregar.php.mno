@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Departamento" value="name:IDDepartamento;datatype:int,name:Nombre;datatype:string,name:Descripcion;datatype:string" />
+	<infoitem key="UD_Edificio" value="name:idEdificios;datatype:int,name:Codigo_edificio;datatype:string,name:descripcion;datatype:string" />
+	<infoitem key="UD_Aulas" value="name:idAulas;datatype:int,name:Codigo_aula;datatype:string,name:Descripcion;datatype:string,name:id_edificio;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:idTurno;datatype:int,name:turno;datatype:string" />
+</info>
