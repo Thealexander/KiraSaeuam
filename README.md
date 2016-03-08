@@ -3,15 +3,15 @@
                                     *** SAE (Sistema Administrador Educativo) ***
                                     
 ## Menu
-    - [I. Descripcion](#I.Descripción).
-    - [II. Resumen Ejecutivo](#II.Resumen-Ejecutivo).
-    - [III. Descripción de detalles Técnicos](#III.Descripción-de-detalles-Técnicos).
-    - [IV.Clientes](#IV.Clientes).
-    - [V.Usuarios](#V.Usuarios).
-    - [VI.Enlace de Repositorio](#VI.Enlace-de-Repositorio).
-    - [VII.Roles de los miembros](#VII.Roles-de-los-miembros).
-    - [VIII.Anotaciones](#VIII.Anotaciones).
-    - [IX.Referencias externas](#IX.Referencias-externas).
+- [I. Descripcion](#I.Descripción).
+- [II. Resumen Ejecutivo](#II.Resumen-Ejecutivo).
+- [III. Descripción de detalles Técnicos](#III.Descripción-de-detalles-Técnicos).
+- [IV.Clientes](#IV.Clientes).
+- [V.Usuarios](#V.Usuarios).
+- [VI.Enlace de Repositorio](#VI.Enlace-de-Repositorio).
+- [VII.Roles de los miembros](#VII.Roles-de-los-miembros).
+- [VIII.Anotaciones](#VIII.Anotaciones).
+- [IX.Referencias externas](#IX.Referencias-externas).
   
 ### I.Descripción
 
@@ -88,7 +88,7 @@ Los usuarios finales serian: profesores, padres, alumnos, directores y administr
 -`**Documentos:**` https://drive.google.com/folderview?id=0B3LlhRNr0vrdZTlNY0ZoTktqMEU&usp=sharing
 
   
-                     ###VII.Roles de los miembros
+###VII.Roles de los miembros
 
 A.	 `**Aldair Peralta:**` Apih97/ 13010231/ https://github.com/Apih97
 
