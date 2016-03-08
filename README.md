@@ -34,7 +34,7 @@ El programa tiene la capacidad de mantener niveles de privilegios de usuario. Li
 
 El software contara con:
 
--` Manejo de niveles de Usuario:` Los privilegios y limitaciones para el acceso al sistema.
+- ` Manejo de niveles de Usuario:` Los privilegios y limitaciones para el acceso al sistema.
 
 - `Registro y control de notas y pagos de Usuarios (estudiantes):` Registrar, deshabilitar, inscribir alumnos y padres de familias (dado el caso tutores), ver notas obtenidas durante cada periodo escolar, además de sus cuotas de pagos, moras, recargos, descuentos, etc.
 
