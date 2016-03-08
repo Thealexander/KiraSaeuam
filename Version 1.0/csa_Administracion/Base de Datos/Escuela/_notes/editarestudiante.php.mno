@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_EditEstudiante" value="name:IDestudiante;datatype:int,name:ESnombre;datatype:string,name:ESapellido;datatype:string,name:lsttipo;datatype:string,name:ESciudad;datatype:string,name:ESpais;datatype:string,name:ESfechadia;datatype:string,name:ESfechames;datatype:string,name:ESfechaano;datatype:string,name:ESEmergencia;datatype:int,name:Cedula;datatype:int,name:Telefono;datatype:int,name:Imagen;datatype:string,name:Activo;datatype:int,name:Actualizacion;datatype:timestamp" />
+</info>

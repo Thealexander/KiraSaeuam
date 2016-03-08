@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_TablaProfesor" value="name:IDprofesor;datatype:int,name:PRnombre;datatype:string,name:PRapellido;datatype:string,name:lsttipo;datatype:string,name:PRciudad;datatype:string,name:PRpais;datatype:string,name:PRfechadia;datatype:string,name:PRfechames;datatype:string,name:PRfechanano;datatype:string,name:Imagen;datatype:string,name:NivelEnsenanza;datatype:int,name:PRemergencia;datatype:int,name:Cedula;datatype:int,name:Telefono;datatype:int,name:Activo;datatype:int,name:Actualizacion;datatype:timestamp" />
+</info>
