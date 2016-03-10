@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Profesor" value="name:idProfesores;datatype:int,name:profesores_nombres;datatype:string,name:Profesores_apellidos;datatype:string,name:Sexo;datatype:string,name:telefono;datatype:string,name:celular;datatype:string,name:Cedula;datatype:string,name:direccion;datatype:string,name:Nacionalidad;datatype:string,name:Ciudad;datatype:string,name:correo;datatype:string,name:IDDepartamento;datatype:int,name:Salario;datatype:real,name:Dinero;datatype:string,name:FotoProf;datatype:blob,name:ProfDia;datatype:string,name:ProfMes;datatype:string,name:ProfAnio;datatype:string,name:id_Turno;datatype:int,name:IDCargo;datatype:int,name:Activo;datatype:int" />
+</info>

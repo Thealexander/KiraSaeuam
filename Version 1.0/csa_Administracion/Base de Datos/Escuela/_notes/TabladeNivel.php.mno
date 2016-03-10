@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:IDnivel;datatype:int,name:Nivel;datatype:int,name:IDestudiante;datatype:int,name:IDprofesor;datatype:int" />
+</info>

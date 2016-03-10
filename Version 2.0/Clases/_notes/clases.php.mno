@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ClasesID" value="name:idClases;datatype:int,name:Nombre_clase;datatype:string,name:IDDepartamento;datatype:int,name:idProfesores;datatype:int,name:idAulas;datatype:int,name:IDNivel;datatype:int,name:Activo;datatype:int,name:idTurno;datatype:int" />
+</info>
