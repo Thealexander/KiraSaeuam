@@ -48,6 +48,7 @@ Los beneficios pueden ser cuantificados:
 ### <a name="Aspectos-técnicos"></a>Aspectos técnicos
 
 Lista de requerimientos:
+
 ●	Sistemas operativos (instalación Local): Windows Xp, 10, 8, 7, OS X, Diestros Linux-BSD-Solaris.
 
 ●	Memoria RAM: 2 GB mínimo.
