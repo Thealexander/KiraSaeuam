@@ -1,11 +1,15 @@
 
 
-#                                              Estudio de Factibilidad
-## Menu
--[I.Cliente](#Cliente).
--[II.Alcance](#Alcance).
--[III.Beneficios](#Beneficios).
--[IV.Aspectos técnicos](#Aspectos-técnicos).
+#                                                        Estudio de Factibilidad
+
+##  Menu
+- [I.Cliente](#Cliente).
+
+- [II.Alcance](#Alcance).
+
+- [III.Beneficios](#Beneficios).
+
+- [IV.Aspectos técnicos](#Aspectos-técnicos).
 
 
 
@@ -40,14 +44,14 @@ Los beneficios pueden ser cuantificados:
 ### <a name="Aspectos-técnicos"></a>Aspectos técnicos
 
 Lista de requerimientos:
-*●	Sistemas operativos (instalación Local): Windows Xp, 10, 8, 7, OS X, Diestros Linux-BSD-Solaris 
-*●	Memoria RAM: 2 GB mínimo. 
-*●	Procesador: Dual Core mínimo, 1Gz de procesador. 
-*●	Espacio Mínimo: 15 GB de disco 
-*●	Motores de Base de datos: InnoDB (MySQL) y Postgres (PostgreSQL) 
-*●	Servidor Local: Apache (recomendado Xamp)
-*●	Requerimiento Web: Hosting compatible con PHP5, Ajax, Perl, JavaScript, HTML5, Python, Ruby, MySQL, PostgreSQL Navegador Web compatible como php5 (Google Chrome, Mozilla Firefox)
-*●	Servidor: Apache
+●	Sistemas operativos (instalación Local): Windows Xp, 10, 8, 7, OS X, Diestros Linux-BSD-Solaris.
+●	Memoria RAM: 2 GB mínimo.
+●	Procesador: Dual Core mínimo, 1Gz de procesador.
+●	Espacio Mínimo: 15 GB de disco.
+●	Motores de Base de datos: InnoDB (MySQL) y Postgres (PostgreSQL).
+●	Servidor Local: Apache (recomendado Xamp).
+●	Requerimiento Web: Hosting compatible con PHP5, Ajax, Perl, JavaScript, HTML5, Python, Ruby, MySQL, PostgreSQL Navegador Web compatible como php5 (Google Chrome, Mozilla Firefox).
+●	Servidor: Apache.
 
 
 
