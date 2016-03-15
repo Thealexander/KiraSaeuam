@@ -13,6 +13,8 @@
 
 - [V.Recursos](#Recursos).
 
+-[VI.Alternativas y riesgos](#Alternativas-y-riesgos).
+
 
 
 ### <a name="Cliente"></a>Cliente
@@ -80,45 +82,50 @@ Usuarios: Director, Profesor, Administrador, Caja, Estudiante, Padre de familia.
 A continuación presentamos los diagramas de actividades y diagrama de Gant, en el primero ubicamos los Itos resaltados en Azul:
 
 Diagrama de actividades
-Lista de actividades	                                                          Letra	Predecesor
-1. Preparación de la Máquina de Pruebas	                                           A	
-a. Instalación del Sistema Operativo a Usar	                                       A1	     A
-b. Instalación de las aplicaciones para la Programación del sistema	               A2	     A
-2. Migración/Creación de la Base de datos                                         	B	     A1,A2
-a. Creación de la Base de datos en PostgreSQL	                                      B1	   B
-b. Creación de la Base de datos en Mysql                                          	B2     B
-3. Migración del código del Sistema a Cake PHP	                                    C	     B1,B2
-4. Primera fase de Pruebas	                                                        D   	 C
-a. Ralease de la Versión 3.0.1 Alpha	                                              D1	   D
-i. Conexión y Prueba con base de datos local PostgreSQL	                            D2	   D
-ii. Conexión y Prueba con base de datos local Mysql	                                D3	   D
-5. Actualización del Repositorio	                                                  E	     D1,D2,D3
-6. Integración de posibles cambios a las bases de datos	                            F	     E
-7. Entrega del Módulo Registros de Estudiantes	                                    G	     F
-8. Entrega del Módulo Inscripción de Estudiantes	                                  H	     F
-9. Entrega del Módulo Registros de Profesores	                                      I	     F
-10. Entrega del Módulo Registros de Personal	                                      J	     F
-11. Entrega del Módulo Registros de Aulas/Edificios	                                K	     F
-12. Entrega del Módulo Inventario	                                                  L	     F
-13. Entrega del Módulo Registro e Inscripción de Asignaturas	                      M	     F
-14. Entrega del módulo Configuración de Usuarios	                                  N	     F
-15. Entrega del Módulo Bienvenida	                                                  Ñ	     F
-16. Entrega del Módulo Seguridad de Sistema	                                        O	     F
-17. Entrega del Módulo Buscador	                                                    P	     F
-18. Entrega del Módulo Finanzas	                                                    Q	     F
-19. Segunda Fase de Revisión	                                                      R	     G-Q
-20. Implementación en línea del Sistema	                                            S	     R
-21. Tercer fase de Pruebas extendida	                                              T	     S
-22. Creación del Manual de usuario	                                                U	     T
-23. Actualización del Repositorio	                                                  V	     U
-24. Finalización de los últimos entregables	                                        W	     V
-25. Presentación del Sistema Release 3.7	                                          X	     W
-a. Presentación de SAE + Mysql DB	                                                  X1	   X
-b. Presentación de SAE + PostgreSQL DB	                                            X2	   X
-26. Implementación en la institución	                                              Y	     X1,X2
-27. Periodo de Pruebas y de vigilancia de adaptación de los usuarios	              Z	     Y
-28. Primera Actualización del Sistema	                                              AZ	   Z
+Lista de actividades	                                                          Letra	Predecesor.
+1. Preparación de la Máquina de Pruebas	                                           A	.
+a. Instalación del Sistema Operativo a Usar	                                       A1	     A.
+b. Instalación de las aplicaciones para la Programación del sistema	               A2	     A.
+2. Migración/Creación de la Base de datos                                         	B	     A1,A2.
+a. Creación de la Base de datos en PostgreSQL	                                      B1	   B.
+b. Creación de la Base de datos en Mysql                                          	B2     B.
+3. Migración del código del Sistema a Cake PHP	                                    C	     B1,B2.
+4. Primera fase de Pruebas	                                                        D   	 C.
+a. Ralease de la Versión 3.0.1 Alpha	                                              D1	   D.
+i. Conexión y Prueba con base de datos local PostgreSQL	                            D2	   D.
+ii. Conexión y Prueba con base de datos local Mysql	                                D3	   D.
+5. Actualización del Repositorio	                                                  E	     D1,D2,D3.
+6. Integración de posibles cambios a las bases de datos	                            F	     E.
+7. Entrega del Módulo Registros de Estudiantes	                                    G	     F.
+8. Entrega del Módulo Inscripción de Estudiantes	                                  H	     F.
+9. Entrega del Módulo Registros de Profesores	                                      I	     F.
+10. Entrega del Módulo Registros de Personal	                                      J	     F.
+11. Entrega del Módulo Registros de Aulas/Edificios	                                K	     F.
+12. Entrega del Módulo Inventario	                                                  L	     F.
+13. Entrega del Módulo Registro e Inscripción de Asignaturas	                      M	     F.
+14. Entrega del módulo Configuración de Usuarios	                                  N	     F.
+15. Entrega del Módulo Bienvenida	                                                  Ñ	     F.
+16. Entrega del Módulo Seguridad de Sistema	                                        O	     F.
+17. Entrega del Módulo Buscador	                                                    P	     F.
+18. Entrega del Módulo Finanzas	                                                    Q	     F.
+19. Segunda Fase de Revisión	                                                      R	     G-Q.
+20. Implementación en línea del Sistema	                                            S	     R.
+21. Tercer fase de Pruebas extendida	                                              T	     S.
+22. Creación del Manual de usuario	                                                U	     T.
+23. Actualización del Repositorio	                                                  V	     U.
+24. Finalización de los últimos entregables	                                        W	     V.
+25. Presentación del Sistema Release 3.7	                                          X	     W.
+a. Presentación de SAE + Mysql DB	                                                  X1	   X.
+b. Presentación de SAE + PostgreSQL DB	                                            X2	   X.
+26. Implementación en la institución	                                              Y	     X1,X2.
+27. Periodo de Pruebas y de vigilancia de adaptación de los usuarios	              Z	     Y.
+28. Primera Actualización del Sistema	                                              AZ	   Z.
 
+### <a name="Alternativas-y-riesgos"></a>Alternativas y riesgos
 
+Alternativa
+Comparando nuestro sistema actual en la versión 2.0 revisando sus ventajas y desventajas, es necesario un cambio radical en el aspecto y facilidad de uso, debido al deficiente aspecto visual, y la necesidad de muchas mejoras en el código y optimización de procesos, por lo cual no es necesario un desarrollo externo sino uno interno al contar un sistemas para migrarlo a un framework y mejorarlo. La creación del sistema abarcara 3 meses y se entregara en fecha negociada con la directiva de la institución, a mediados de junio, el día acordado se tendrá que haber entregado hasta el último ejecutable.
+Riesgo
+Entre los posibles riesgos están la falla del computador de prueba y que los hosting de pruebas no tengan características necesarias y se cuelguen, o que se ejecuten muy lentos, según la condición. Nivel de características del Software estarían la mala toma de requerimientos, mala planificación y un mal desarrollo del sistema.
 
 
