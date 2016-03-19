@@ -53,7 +53,7 @@ Lista de requerimientos:
 
 ●	Memoria RAM: 2 GB mínimo.
 
-●	Procesador: Dual Core mínimo, 1Gz de procesador.
+●	Procesador: Dual Core mínimo, 2Gz de procesador.
 
 ●	Espacio Mínimo: 15 GB de disco.
 
