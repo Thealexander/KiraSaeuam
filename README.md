@@ -16,7 +16,7 @@
 
 Es un programa de administración, control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. El programa tendrá la capacidad de tener niveles de privilegios de usuario. Se podrá acceder a la aplicación por computador y web o por dispositivo móvil (aplicación o web App).
 El Sistema `SAE` busca ser creado con la utilizacion o implementacion de codigo javascript, python, perl y ruby, para optimizacion de funciones, como lenguaje base de la aplicacion Php, y Cakephp como framework.
-La base de datos de `SAE` estaran en dos versiones para prueba de estabilidad, seguridad, y velocidad, tales seran en Firebird, PostgreSQL y MySQL.
+La base de datos de `SAE` estaran en tres versiones para prueba de estabilidad, seguridad, y velocidad, tales seran creadas en MariaDB, PostgreSQL y MySQL.
 
 El software contara con:
 
@@ -44,15 +44,14 @@ El software contara con:
 
 -  `Manejo y control de finanzas:` Control de pagos, y gastos que realiza el centro educativo.
 
-Se presentarán 4 versiones:
+Se presentarán 3 versiones:
 
-- `Basic:` El software solo es adaptado para uso de administradores y un director, de manera interna sin acceso a estudiantes o padres a realizar transacciones. Módulos habilitados: Inscripción, Registros, búsqueda y pagos. 
+- `MyKira-SAE:` Version de Kira-SAE utilizando como motor de Base de datos como motor de base de datos MySQL COmmunity.
 
-- `Professional:` El software es adaptado para acceso de administradores, director, profesores y estudiantes. Los privilegios son adaptados por parte del Usuario root. Módulos habilitados: Niveles de usuarios, Manejo y Control de finanzas, Registro de Profesores, Personal, Alumnos. Permite la Creación de Reportes
+- `MaKira-SAE:` La version de Kira-SAE utilizando como motor de base de datos MariaDB. 
 
-- `Premium:` El software tiene habilitado todos los módulos y niveles de usuario. Respaldo incorporado y creación de reportes 
+- `PgKira-SAE:` La version de Kira-SAE utilizando motor de base de datos a PostgreSQL.
 
-- `Business Premium:` El software cuenta con todas las opciones del Sistema en sí, Con respaldo incorporado y acceso desde Web.
 
 ## <a name="Descripcion-de-detalles-Tecnicos"></a>Descripcion de detalles Tecnicos
 
@@ -85,6 +84,7 @@ Los usuarios finales serian: profesores, padres, alumnos, directores y administr
 - `Repositorio:`https://github.com/Thealexander/Saeuam
 - `Sitio Web1:` http://sae.heliohost.org/ --PostgreSQl db
 - `Sitio Web2:` http://scadministrator.netai.net/ --Mysql db
+- `Sitio Web2:` http://makirasae.kloud51.com/ --Maria DB
 - `Documentos:` https://drive.google.com/folderview?id=0B3LlhRNr0vrdZTlNY0ZoTktqMEU&usp=sharing
 
   
