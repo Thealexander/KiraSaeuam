@@ -1,7 +1,0 @@
-[Profesor]-(Validar usuario)
-[Profesor]-(registrar nota)
-[Administrador]-(Validar usuario)
-[Alumno]-(Validar usuario)
-[Alumno]-(Vizualizar nota)
-[Administrador]-(Consultar registros)
-(Consultar registros)<(Generar reporte)
