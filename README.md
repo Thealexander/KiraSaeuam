@@ -1,5 +1,5 @@
 #                                     Kira-SAE (Sistema Administrador Educativo)  
-
+ [![Kira](https://github.com/Thealexander/KiraSaeuam/blob/master/Documentos/Logos-de-las-versiones/SAE.png)](http://www.cakephp.org)
 ## Menu
 - [I.Descripcion](#Descripcion).
 - [II.Resumen Ejecutivo](#Resumen-Ejecutivo).
