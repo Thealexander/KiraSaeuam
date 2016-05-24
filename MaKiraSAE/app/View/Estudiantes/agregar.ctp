@@ -5,7 +5,7 @@
 	echo $this ->Form->create('Estudiante');
 	
 	echo $this ->Form->input('Estudiante_Nombres');
-	echo $this ->Form->input('Estudiantes_Apellidos');
+	echo $this ->Form->input('Estudiante_Apellidos');
 	echo $this ->Form->input('descuento');
 	echo $this ->Form->input('fecha_nacimiento', array('dateFormat' => 'YDM')); 
 	echo $this ->Form->input('Nacionalidad', array(
