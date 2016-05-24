@@ -18,18 +18,18 @@ echo $this->Html->link('Inscripcion', array('controller' => 'estudiantes', 'acti
 	<td>		</td>
 	
  </tr>
- <?php foreach ($estudiantes as $estudiante):?>
+ <?php foreach ($estudiantes as $estudiantes):?>
  <td>ID</td>
-	<td> <?php echo $estudiante['Estudiante']['Id_Estudiantes']; ?> </td>
-	<td> <?php echo $estudiante['Estudiante']['Fotos_Id_photo']; ?> </td>
-	<td> <?php echo $estudiante['Estudiante']['Estudiantes_Apellidos']; ?> </td>
-	<td> <?php echo $estudiante['Estudiante']['Estudiantes_Nombres']; ?> </td>
-	<td> <?php echo $estudiante['Estudiante']['Nivel']; ?> </td>
-	<td> <?php echo $estudiante['Estudiante']['Celular']; ?> </td>
-	<td> <?php echo $estudiante['Estudiante']['Activo']; ?> </td>
-	<td> <?php echo $this->Html->Link('Detalles', array('controller' => 'estudiantes', 'action' => 'visualizar', $estudiante['Estudiante']['Id_Estudiantes'])); ?> </td>
-	<td> <?php echo $this->Html->Link('Editar', array('controller' => 'estudiantes', 'action' => 'edicion', $estudiante['Estudiante']['Id_Estudiantes'])); ?> </td>
-	<td> <?php echo $this->Html->Link('Inscribir', array('controller' => 'estudiantes', 'action' => 'inscribir', $estudiante['Estudiante']['Id_Estudiantes'])); ?> </td>
-	<td> <?php echo $this->Form->postLink('Eliminar', array('action' => 'eliminar', $estudiante['Estudiante']['Id_Estudiantes']), array('confirm' =>'Eliminar a' .$estudiante['Estudiante']['Id_Estudiantes'].'?' ))?> </td>
+	<td> <?php echo $estudiantes['Estudiantes']['Id_Estudiantes']; ?> </td>
+	<td> <?php echo $estudiantes['Estudiantes']['Fotos_Id_photo']; ?> </td>
+	<td> <?php echo $estudiantes['Estudiantes']['Estudiantes_Apellidos']; ?> </td>
+	<td> <?php echo $estudiantes['Estudiantes']['Estudiantes_Nombres']; ?> </td>
+	<td> <?php echo $estudiantes['Estudiantes']['Nivel']; ?> </td>
+	<td> <?php echo $estudiantes['Estudiantes']['Celular']; ?> </td>
+	<td> <?php echo $estudiantes['Estudiantes']['Activo']; ?> </td>
+	<td> <?php echo $this->Html->Link('Detalles', array('controller' => 'estudiantes', 'action' => 'visualizar', $estudiantes['Estudiantes']['Id_Estudiantes'])); ?> </td>
+	<td> <?php echo $this->Html->Link('Editar', array('controller' => 'estudiantes', 'action' => 'edicion', $estudiantes['Estudiantes']['Id_Estudiantes'])); ?> </td>
+	<td> <?php echo $this->Html->Link('Inscribir', array('controller' => 'estudiantes', 'action' => 'inscribir', $estudiantes['Estudiantes']['Id_Estudiantes'])); ?> </td>
+	<td> <?php echo $this->Form->postLink('Eliminar', array('action' => 'eliminar', $estudiantes['Estudiantes']['Id_Estudiantes']), array('confirm' =>'Eliminar a' .$estudiantes['Estudiantes']['Id_Estudiantes'].'?' ))?> </td>
 	<?php endforeach; ?>
  </table>
