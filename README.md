@@ -15,8 +15,8 @@
 ## <a name="Descripcion"></a>Descripcion
 
 Es un programa de administración, control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. El programa tendrá la capacidad de tener niveles de privilegios de usuario. Se podrá acceder a la aplicación por computador y web o por dispositivo móvil (aplicación o web App).
-El Sistema `SAE` busca ser creado con la utilizacion o implementacion de codigo javascript, python, perl y ruby, para optimizacion de funciones, como lenguaje base de la aplicacion Php, y Cakephp como framework.
-La base de datos de `SAE` estaran en tres versiones para prueba de estabilidad, seguridad, y velocidad, tales seran creadas en MariaDB, PostgreSQL y MySQL.
+El Sistema `KIRA` busca ser creado con PHP como lenguaje base de la aplicacion y Cakephp como framework.
+La base de datos de `KIRA` estaran en tres versiones para prueba de estabilidad, seguridad, y velocidad, tales seran creadas en MariaDB, PostgreSQL y MySQL.
 
 El software contara con:
 
@@ -28,7 +28,7 @@ El software contara con:
  
 ## <a name="Resumen-Ejecutivo"></a>Resumen Ejecutivo
 
-El programa `SAE` es un sistema de administración para diversas tareas que  se necesitan mantener controladas y supervisas en los sectores educativos, escuelas, colegios particulares y técnicos, institutos educativos, entre otros. Con SAE se logra mantener un control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. Permitiendo así salvar lo más preciado para toda persona como es el tiempo y la información, en el caso de los centros educativos, mantener un control más detallado de su comunidad estudiantil y las finanzas y roles que conlleva.
+El programa `KIRA` es un sistema de administración para diversas tareas que  se necesitan mantener controladas y supervisas en los sectores educativos, escuelas, colegios particulares y técnicos, institutos educativos, entre otros. Con SAE se logra mantener un control y manejo de clases, horarios, personal y finanzas (pagos y recargos) de una institución académica. Permitiendo así salvar lo más preciado para toda persona como es el tiempo y la información, en el caso de los centros educativos, mantener un control más detallado de su comunidad estudiantil y las finanzas y roles que conlleva.
 
 El programa tiene la capacidad de mantener niveles de privilegios de usuario. Limitando y garantizando un correcto acceso a la información que se debe mostrar al nivel de usuario dado (padres, administradores, estudiantes, directores, profesores). Ahorrando tiempo en organizar eventos o actividades. Se podrá acceder a la aplicación por computador y web o por dispositivo móvil (aplicación o web App), facilitando a los usuarios acceder en cualquier parte que se encuentren para acceder a su información (padres, estudiantes), o manteniendo una seguridad de acceso a instalaciones e información privada del centro (administradores, profesores).
 
@@ -46,11 +46,11 @@ El software contara con:
 
 Se presentarán 3 versiones:
 
-- `MyKira-SAE:` Version de Kira-SAE utilizando como motor de Base de datos como motor de base de datos MySQL COmmunity.
+- `MyKira:` Version de Kira-SAE utilizando como motor de Base de datos como motor de base de datos MySQL COmmunity.
 
-- `MaKira-SAE:` La version de Kira-SAE utilizando como motor de base de datos MariaDB. 
+- `MaKira:` La version de Kira-SAE utilizando como motor de base de datos MariaDB. 
 
-- `PgKira-SAE:` La version de Kira-SAE utilizando motor de base de datos a PostgreSQL.
+- `PgKira:` La version de Kira-SAE utilizando motor de base de datos a PostgreSQL.
 
 
 ## <a name="Descripcion-de-detalles-Tecnicos"></a>Descripcion de detalles Tecnicos
@@ -58,7 +58,7 @@ Se presentarán 3 versiones:
 ###A. 	`Requerimientos Local:` 
 
 - Sistemas operativos (instalación Local): Windows Xp, 10, 8, 7, OS X, Diestros Linux-BSD-Solaris
-- Memoria RAM: 2gigas mínimo.
+- Memoria RAM: 2 GB mínimo.
 - Procesador: Dual Core mínimo, 1Gz de procesador.
 - Espacio Mínimo: 15gigbytes de disco
 - Motores de Base de datos: Inobd (MySQL) y Postgres (PostgreSQL)
