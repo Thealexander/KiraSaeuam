@@ -115,21 +115,17 @@ Rol en el proyecto: Programar, investigar .desarrollar y escribir
 
 1- Presentacion digital de los avances del sistema SAE.
 
-2- Manual de usuario del sistema SAE.
+2- Pagina web online 
 
-3- Pagina web online 
+3- Usuario y clave de acceso para realizar pruebas.
 
-4- Usuario y clave de acceso para realizar pruebas.
+4- Kira con gestor de base de datos MariaDB.
 
-5- Un CD ejecutable.
+5- Kira con gestor de base de datos MYSQL.
 
-6- SAE con gestor de base de datos MYSQL.
+6- Kira con gestor de base de datos POSTGRESQL.
 
-7- SAE con gestor de base de datos POSTGRESQL.
-
-8- Repositorio en linea.
-
-9- Un Installer del sistemas SAE.
+7- Repositorio en linea.
 
 ## <a name="Anotaciones"></a>Anotaciones
 
