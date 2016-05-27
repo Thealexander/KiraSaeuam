@@ -1,0 +1,465 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "7c78d54a1741b3908478b2b890eacf83",
+    "content-hash": "3dc253a3ef981c13c2aa830913329bf3",
+    "packages": [
+        {
+            "name": "cakephp/collection",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/collection.git",
+                "reference": "d304a078a1c6a6362286270f6b245718a2a8eda0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/collection/zipball/d304a078a1c6a6362286270f6b245718a2a8eda0",
+                "reference": "d304a078a1c6a6362286270f6b245718a2a8eda0",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\Collection\\": "."
+                },
+                "files": [
+                    "functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "Work easily with arrays and iterators by having a battery of utility traversal methods",
+            "time": "2016-04-18 12:16:26"
+        },
+        {
+            "name": "cakephp/core",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/core.git",
+                "reference": "a4d12e17d1881670fcb971b4bcafb9d9587a9675"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/core/zipball/a4d12e17d1881670fcb971b4bcafb9d9587a9675",
+                "reference": "a4d12e17d1881670fcb971b4bcafb9d9587a9675",
+                "shasum": ""
+            },
+            "require": {
+                "cakephp/utility": "~3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\Core\\": "."
+                },
+                "files": [
+                    "functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "CakePHP Framework Core classes",
+            "time": "2016-04-04 03:27:29"
+        },
+        {
+            "name": "cakephp/database",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/database.git",
+                "reference": "1006232a3fd03e5a8fea6ef01ae39c75ed64dd74"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/database/zipball/1006232a3fd03e5a8fea6ef01ae39c75ed64dd74",
+                "reference": "1006232a3fd03e5a8fea6ef01ae39c75ed64dd74",
+                "shasum": ""
+            },
+            "require": {
+                "cakephp/core": "~3.0",
+                "cakephp/datasource": "~3.0"
+            },
+            "suggest": {
+                "cakephp/cache": "Require this if you decide to use the schema caching feature",
+                "cakephp/log": "Require this if you want to use the built-in query logger"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\Database\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "Flexible and powerful Database abstraction library with a familiar PDO-like API",
+            "time": "2016-05-13 02:44:07"
+        },
+        {
+            "name": "cakephp/datasource",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/datasource.git",
+                "reference": "477520529dc5d6a90cd3b35ed079881dc615a2b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/datasource/zipball/477520529dc5d6a90cd3b35ed079881dc615a2b9",
+                "reference": "477520529dc5d6a90cd3b35ed079881dc615a2b9",
+                "shasum": ""
+            },
+            "require": {
+                "cakephp/core": "~3.0"
+            },
+            "suggest": {
+                "cakephp/collection": "Require this if you decide to use ResultSetInterface",
+                "cakephp/utility": "Require this if you decide to use EntityTrait"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\Datasource\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "Provides connection managing and traits for Entities and Queries that can be reused for different datastores",
+            "time": "2016-05-14 17:02:13"
+        },
+        {
+            "name": "cakephp/event",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/event.git",
+                "reference": "dbe878048ed37d9371f96ab45884391eb2c90778"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/event/zipball/dbe878048ed37d9371f96ab45884391eb2c90778",
+                "reference": "dbe878048ed37d9371f96ab45884391eb2c90778",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\Event\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "CakePHP event dispatcher library that helps implementing the observer pattern",
+            "time": "2016-03-10 23:31:51"
+        },
+        {
+            "name": "cakephp/orm",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/orm.git",
+                "reference": "d4ae64f68f35638471921596989ed67ba06fd0c6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/orm/zipball/d4ae64f68f35638471921596989ed67ba06fd0c6",
+                "reference": "d4ae64f68f35638471921596989ed67ba06fd0c6",
+                "shasum": ""
+            },
+            "require": {
+                "cakephp/collection": "~3.0",
+                "cakephp/core": "~3.0",
+                "cakephp/database": "^3.1.4",
+                "cakephp/datasource": "^3.1.2",
+                "cakephp/event": "~3.0",
+                "cakephp/utility": "~3.0",
+                "cakephp/validation": "~3.0"
+            },
+            "suggest": {
+                "cakephp/i18n": "~3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\ORM\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "CakePHP ORM - Provides a flexible and powerful ORM implementing a data-mapper pattern.",
+            "time": "2016-05-24 16:21:28"
+        },
+        {
+            "name": "cakephp/utility",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/utility.git",
+                "reference": "aadbc566170db0f969baf7070c68b1dd98b89ccf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/utility/zipball/aadbc566170db0f969baf7070c68b1dd98b89ccf",
+                "reference": "aadbc566170db0f969baf7070c68b1dd98b89ccf",
+                "shasum": ""
+            },
+            "suggest": {
+                "ext-intl": "To use Text::transliterate() or Text::slug()"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\Utility\\": "."
+                },
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "CakePHP Utility classes such as Inflector, String, Hash, and Security",
+            "time": "2016-05-21 17:57:02"
+        },
+        {
+            "name": "cakephp/validation",
+            "version": "3.2.10",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/cakephp/validation.git",
+                "reference": "42714ee433959d56499b275121d8e77b4f332bab"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cakephp/validation/zipball/42714ee433959d56499b275121d8e77b4f332bab",
+                "reference": "42714ee433959d56499b275121d8e77b4f332bab",
+                "shasum": ""
+            },
+            "require": {
+                "cakephp/utility": "~3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Cake\\Validation\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "CakePHP Community",
+                    "homepage": "http://cakephp.org"
+                }
+            ],
+            "description": "CakePHP Validation library",
+            "time": "2016-05-09 23:34:42"
+        },
+        {
+            "name": "josegonzalez/cakephp-upload",
+            "version": "3.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/josegonzalez/cakephp-upload.git",
+                "reference": "c2985689318a1b01bc117c2f55fd67ff9dafa2a2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/josegonzalez/cakephp-upload/zipball/c2985689318a1b01bc117c2f55fd67ff9dafa2a2",
+                "reference": "c2985689318a1b01bc117c2f55fd67ff9dafa2a2",
+                "shasum": ""
+            },
+            "require": {
+                "cakephp/orm": "3.*",
+                "league/flysystem": "*",
+                "php": ">=5.5"
+            },
+            "require-dev": {
+                "cakephp/cakephp": "~3.0",
+                "cakephp/cakephp-codesniffer": "dev-master",
+                "league/flysystem-vfs": "*",
+                "phpunit/phpunit": "4.1.*",
+                "satooshi/php-coveralls": "dev-master"
+            },
+            "type": "cakephp-plugin",
+            "autoload": {
+                "psr-4": {
+                    "Josegonzalez\\Upload\\": "src",
+                    "Josegonzalez\\Upload\\Test\\Fixture\\": "tests\\Fixture"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jose Diaz-Gonzalez",
+                    "email": "cakephp+upload@josediazgonzalez.com"
+                }
+            ],
+            "description": "CakePHP plugin to handle file uploading sans ridiculous automagic",
+            "homepage": "https://github.com/josegonzalez/cakephp-upload",
+            "keywords": [
+                "Behavior",
+                "cakephp",
+                "files",
+                "orm",
+                "upload"
+            ],
+            "time": "2016-03-26 21:42:22"
+        },
+        {
+            "name": "league/flysystem",
+            "version": "1.0.22",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thephpleague/flysystem.git",
+                "reference": "bd73a91703969a2d20ab4bfbf971d6c2cbe36612"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/bd73a91703969a2d20ab4bfbf971d6c2cbe36612",
+                "reference": "bd73a91703969a2d20ab4bfbf971d6c2cbe36612",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "conflict": {
+                "league/flysystem-sftp": "<1.0.6"
+            },
+            "require-dev": {
+                "ext-fileinfo": "*",
+                "mockery/mockery": "~0.9",
+                "phpspec/phpspec": "^2.2",
+                "phpunit/phpunit": "~4.8 || ~5.0"
+            },
+            "suggest": {
+                "ext-fileinfo": "Required for MimeType",
+                "league/flysystem-aws-s3-v2": "Allows you to use S3 storage with AWS SDK v2",
+                "league/flysystem-aws-s3-v3": "Allows you to use S3 storage with AWS SDK v3",
+                "league/flysystem-azure": "Allows you to use Windows Azure Blob storage",
+                "league/flysystem-cached-adapter": "Flysystem adapter decorator for metadata caching",
+                "league/flysystem-copy": "Allows you to use Copy.com storage",
+                "league/flysystem-dropbox": "Allows you to use Dropbox storage",
+                "league/flysystem-eventable-filesystem": "Allows you to use EventableFilesystem",
+                "league/flysystem-rackspace": "Allows you to use Rackspace Cloud Files",
+                "league/flysystem-sftp": "Allows you to use SFTP server storage via phpseclib",
+                "league/flysystem-webdav": "Allows you to use WebDAV storage",
+                "league/flysystem-ziparchive": "Allows you to use ZipArchive adapter"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.1-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "League\\Flysystem\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Frank de Jonge",
+                    "email": "info@frenky.net"
+                }
+            ],
+            "description": "Filesystem abstraction: Many filesystems, one API.",
+            "keywords": [
+                "Cloud Files",
+                "WebDAV",
+                "abstraction",
+                "aws",
+                "cloud",
+                "copy.com",
+                "dropbox",
+                "file systems",
+                "files",
+                "filesystem",
+                "filesystems",
+                "ftp",
+                "rackspace",
+                "remote",
+                "s3",
+                "sftp",
+                "storage"
+            ],
+            "time": "2016-04-28 06:53:12"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
