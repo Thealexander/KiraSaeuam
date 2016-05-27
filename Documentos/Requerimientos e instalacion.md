@@ -4,8 +4,8 @@ Aca se especificaran los datos como el titulo lo dice, lo que requiere tener una
 de como hacerlo
 
 ## Menu
--[1.Requerimientos](#Requerimientos)
--[2.Instalacion](#Instalacion)
+- [1.Requerimientos](#Requerimientos)
+- [2.Instalacion](#Instalacion)
 
 ### <a name="Requerimientos"></a>Requerimientos
 
