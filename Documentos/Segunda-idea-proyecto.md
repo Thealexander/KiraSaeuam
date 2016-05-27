@@ -85,7 +85,7 @@ Mini Biografía: Estudiante de la carrera de Ingeniería en gerencia Informátic
 Actual en el uso de PHP, Visual Basic, Java, SQL Server, MySQL. 
 Rol en el proyecto: Programador, desarrollador, investigador y escritor. 
 
- * Brayan Gaitan: TheAlexander / 11020330 
+* Brayan Gaitan: TheAlexander / 11020330 
 MiniBiografia: Estudiante de Ingenieria en Sistemas de Informacion, cursando quinto año, sanguíneo, hardworking, multitasking, creativo, Lider. 
 En uso de PHP, Java, C, C++, Asp.net, javascript, Visual Basic, Python, Ruby on rails, Perl, Shell, MySQL, SQL Server, PostgreSQL.    
 Rol en Proyecto: Líder, Programador, desarrollador, investigador.  
