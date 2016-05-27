@@ -37,7 +37,9 @@ No corria en ninguna version de Android, estaba en acces. `Incumplido`
 
 La aplicacion no corria en IOS, estaba en acces. `Incumplido`
 
+[![tabla](https://github.com/Thealexander/KiraSaeuam/blob/master/Documentos/Memorias-y-evaluacion/TablaRequerimientosCRM.png?raw=true)]
 
+En base a estos datos no nos queda mas remedio que dar un 1 en la escala del 1 (mas bajo) al 10 (mas alto)
 `
 
 
