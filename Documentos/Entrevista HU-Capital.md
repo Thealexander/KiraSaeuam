@@ -1,4 +1,4 @@
-#                                          Entrevista cpn Hu-Capital
+#                                          Entrevista con Hu-Capital
 
 Luego de hacer la entrevista al personal de esta compania quedamos con los siguientes resultados:
 
