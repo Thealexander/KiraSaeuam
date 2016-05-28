@@ -23,9 +23,9 @@ de como hacerlo
 
 Para poder Instalar Cualquiera de las Versiones KiraSAE en local se necesita:
 
-`PgKiraSae:` WAPP 5.6 o superior
-`MaKiraSae:` EasyPHPDEvServ 14.1
-`MyKiraSae:` WampServer 3.0
+- `PgKiraSae:` WAPP 5.6 o superior
+- `MaKiraSae:` EasyPHPDEvServ 14.1
+- `MyKiraSae:` WampServer 3.0
 
 
 
