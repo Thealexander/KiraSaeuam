@@ -65,18 +65,16 @@ Lista de requerimientos:
 
 ●	Servidor: Apache.
 
-Lista de posibles versiones:
+Se presentarán 3 versiones:
 
-Basic: El software solo es adaptado para uso de administradores y un director, de manera interna sin acceso a estudiantes o padres a realizar transacciones. Módulos habilitados: Inscripción, Registros, búsqueda y pagos. 
+- `MyKira:` Version de Kira-SAE utilizando como motor de Base de datos como motor de base de datos MySQL COmmunity.
 
-Professional: El software es adaptado para acceso de administradores, director, profesores y estudiantes. Los privilegios son adaptados por parte del Usuario root. Módulos habilitados: Niveles de usuarios, Manejo y Control de finanzas, Registro de Profesores, Personal, Alumnos. Permite la Creación de Reportes
+- `MaKira:` La version de Kira-SAE utilizando como motor de base de datos MariaDB. 
 
-Premium: El software tiene habilitado todos los módulos y niveles de usuario. Respaldo incorporado y creación de reportes 
+- `PgKira:` La version de Kira-SAE utilizando motor de base de datos a PostgreSQL.
 
-Business Premium: El software cuenta con todas las opciones del Sistema en sí, Con respaldo incorporado y acceso desde Web.
-
-a)	Usuarios y transacciones
-Usuarios: Director, Profesor, Administrador, Caja, Estudiante, Padre de familia.
+a)	Usuarios 
+Usuarios: Profesor, Administrador, Estudiante, Padre de familia.
 
 ### <a name="Recursos"></a>Recursos
 
