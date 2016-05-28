@@ -15,7 +15,8 @@ de como hacerlo
 * Espacio Mínimo: 15 GB de disco.
 * Motores de Base de datos: InnoDB (MySQL) y Postgres (PostgreSQL).
 * Servidor Local: Apache (recomendado Xamp).
-* Requerimiento Web: Hosting compatible con PHP5, Ajax, Perl, JavaScript, HTML5, Python, Ruby, MySQL, PostgreSQL Navegador Web compatible como php5 (Google Chrome, Mozilla Firefox).
+* Requerimiento Web: Hosting compatible con PHP5, Ajax, Perl, JavaScript, HTML5, Python, Ruby, MySQL, PostgreSQL 
+* Navegador Web compatible como php5 (Google Chrome, Mozilla Firefox).
 * Servidor: Apache.
 
 ### <a name="Instalacion"></a>Instalacion
