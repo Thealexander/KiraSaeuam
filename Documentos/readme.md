@@ -74,7 +74,7 @@ Se presentarán 3 versiones:
 - `PgKira:` La version de Kira-SAE utilizando motor de base de datos a PostgreSQL.
 
 a)	Usuarios 
-Usuarios: Profesor, Administrador, Estudiante, Padre de familia.
+Profesor, Administrador, Estudiante, Padre de familia.
 
 ### <a name="Recursos"></a>Recursos
 
