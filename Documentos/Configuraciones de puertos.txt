@@ -1,0 +1,12 @@
+Configuraciones de Puertos para aplicaciones
+
+
+Xamp
+
+Apache: 8111
+Mysql: 3311
+
+WAPP
+Apache: 8585
+SSL port: 447
+Posgres pass: 4478559f

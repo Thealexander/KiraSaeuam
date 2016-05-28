@@ -1,0 +1,5 @@
+{
+    "require": {
+        "josegonzalez/cakephp-upload": "^3.4"
+    }
+}
